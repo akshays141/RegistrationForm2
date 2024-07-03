@@ -1,0 +1,20 @@
+
+form{
+
+
+    border: 2px solid rgba(128, 128, 128, 0.596)  ;
+    width:fit-content;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+
+div{
+    display: flex;
+    
+}
+
+input{
+    margin: 2%;
+   
+}
